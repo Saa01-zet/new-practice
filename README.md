@@ -1,6 +1,7 @@
-﻿Project documentation
-This is the main readme file.
-MASTER UPDATE: Added deployment instructions
-- Step 1: build the project
-- Step 2: run tests
-- Step 3: deploy to production
+﻿Документация проекта
+Это главный файл readme.
+ОБНОВЛЕНИЕ В MASTER: Добавлены инструкции по развёртыванию
+
+Шаг 1: собрать проект
+Шаг 2: запустить тесты
+Шаг 3: развернуть на сервере
